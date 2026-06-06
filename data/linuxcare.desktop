@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=LinuxCare
+Comment=A comprehensive Linux system management tool
+Exec=linuxcare
+Icon=linuxcare
+Terminal=false
+Type=Application
+Categories=System;Utility;
+Keywords=linux;system;management;cleanup;disk;software;
+StartupNotify=true

@@ -1,0 +1,33 @@
+# Rust build artifacts
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# Distribution packages
+/dist/
+*.tar.gz
+*.deb
+*.rpm
+
+# AI tools / IDE
+.claude/
+.omc/
+.gemini/
+.cursor/
+.cursorrules
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.bak
